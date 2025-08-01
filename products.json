@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "name": "Dont Tread on Me T-Shirt",
+            "size": "M-5XL",
+            "code": "CT-508",
+            "price": "$12.00",
+            "image": "https://unikinternational.com/cdn/shop/files/Unik68827e5d40c42968827e5d40faf.2427019268827e5d40faf.png?v=1753717860"
+        },
+        {
+            "name": "Come and Take it T-Shirt",
+            "size": "M-5XL",
+            "code": "CT-510",
+            "price": "$12.00",
+            "image": "https://unikinternational.com/cdn/shop/files/Unik68827e7b3c3cf268827e7b3c7b4.8929491068827e7b3c7b4.png?v=1753717856"
+        },
+        {
+            "name": "Vanguard - Mens Classic M.C. Leather Jacket",
+            "size": "M-5XL",
+            "code": "312.00",
+            "price": "$125.00",
+            "image": "https://unikinternational.com/cdn/shop/files/0312.00_-_Mens_Classic_M.C._Leather_Jacket.jpg?v=1752784214"
+        },
+        {
+            "name": "Vanguard - Mens Classic M.C. Leather Jacket",
+            "size": "M-5XL",
+            "code": "312.00",
+            "price": "$125.00",
+            "image": "https://unikinternational.com/cdn/shop/files/0312.00_-_Mens_Classic_M.C._Leather_Jacket.jpg?v=1752784214"
+        }
+    ]
+}
