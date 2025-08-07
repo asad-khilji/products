@@ -7,34 +7,9 @@
   <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
-  <!-- Auth-only top bar -->
-  <div class="topbar hidden" id="topbar">
-    <button id="printBtn">Print Catalog as PDF</button>
-    <button id="logoutBtn" class="logout">Logout</button>
-  </div>
-
-  <!-- Catalog -->
-  <div id="catalog" class="catalog hidden"></div>
-
-  <!-- Login screen -->
-  <div id="loginScreen" class="login-screen">
-    <div class="login-wrap">
-      <h2>Sign in</h2>
-      <form id="loginForm">
-        <label for="username">Username</label>
-        <input id="username" name="username" type="text" autocomplete="username" required />
-
-        <label for="password">Password</label>
-        <input id="password" name="password" type="password" autocomplete="current-password" required />
-
-        <button type="submit">Login</button>
-        <div id="loginError" class="error" aria-live="polite"></div>
-      </form>
-    </div>
-  </div>
+  <button onclick="window.print()">Print Catalog as PDF</button>
+  <div id="catalog" class="catalog"></div>
 
   <script src="script.js"></script>
 </body>
 </html>
-
-
